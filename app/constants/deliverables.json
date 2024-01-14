@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "type": "docx",
+    "Name": "Deliverables Sample",
+    "DateCreated": "02-02-2024",
+    "createdBy": {
+      "email": "nicolas@turbodocx.com",
+      "icon": "/user-1.png"
+    },
+    "variables": [
+      {
+        "placeholder": "Please enter the activities list",
+        "Name": "ActivitiesList",
+        "fieldValue": "activitiesList",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the amount",
+        "Name": "Price",
+        "fieldValue": "price",
+        "type": "number",
+        "minLength": 2000,
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the short terms",
+        "Name": "ShortTermNextSteps",
+        "fieldValue": "shortTermNextSteps",
+        "type": "text",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "docx",
+    "Name": "Accounting",
+    "DateCreated": "02-03-2024",
+    "createdBy": {
+      "email": "nicolas@turbodocx.com",
+      "icon": "/user-2.png"
+    },
+    "variables": [
+      {
+        "placeholder": "Please enter the deliverable name",
+        "Name": "Deliverable Name",
+        "fieldValue": "deliverableName",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the activities list",
+        "Name": "ActivitiesList",
+        "fieldValue": "activitiesList",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the amount",
+        "Name": "Price",
+        "fieldValue": "price",
+        "type": "number",
+        "minLength": 2000,
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the short terms",
+        "Name": "ShortTermNextSteps",
+        "fieldValue": "shortTermNextSteps",
+        "type": "text",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "docx",
+    "Name": "Minutes of meeting",
+    "DateCreated": "03-02-2024",
+    "createdBy": {
+      "email": "nicolas@turbodocx.com",
+      "icon": "/user-3.png"
+    },
+    "variables": [
+      {
+        "placeholder": "Please enter the deliverable name",
+        "Name": "Deliverable Name",
+        "fieldValue": "deliverableName",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the activities list",
+        "Name": "ActivitiesList",
+        "fieldValue": "activitiesList",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the amount",
+        "Name": "Price",
+        "fieldValue": "price",
+        "type": "number",
+        "minLength": 2000,
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the short terms",
+        "Name": "ShortTermNextSteps",
+        "fieldValue": "shortTermNextSteps",
+        "type": "text",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "pptx",
+    "Name": "Kick-off.pptx",
+    "DateCreated": "02-02-2023",
+    "createdBy": {
+      "email": "nicolas@turbodocx.com",
+      "icon": "/user-4.png"
+    },
+    "variables": [
+      {
+        "placeholder": "Please enter the deliverable name",
+        "Name": "Deliverable Name",
+        "fieldValue": "deliverableName",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the activities list",
+        "Name": "ActivitiesList",
+        "fieldValue": "activitiesList",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the amount",
+        "Name": "Price",
+        "fieldValue": "price",
+        "minLength": 20000,
+        "type": "number",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the short terms",
+        "Name": "ShortTermNextSteps",
+        "fieldValue": "shortTermNextSteps",
+        "type": "text",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "pptx",
+    "Name": "Saled Deck.pptx",
+    "DateCreated": "02-02-2022",
+    "createdBy": {
+      "email": "nicolas@turbodocx.com",
+      "icon": "/user-5.png"
+    },
+    "variables": [
+      {
+        "placeholder": "Please enter the deliverable name",
+        "Name": "Deliverable Name",
+        "fieldValue": "deliverableName",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the activities list",
+        "Name": "ActivitiesList",
+        "fieldValue": "activitiesList",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the amount",
+        "Name": "Price",
+        "fieldValue": "price",
+        "type": "number",
+        "minLength": 2000,
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the short terms",
+        "Name": "ShortTermNextSteps",
+        "fieldValue": "shortTermNextSteps",
+        "type": "text",
+        "required": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "docx",
+    "Name": "HR Report",
+    "DateCreated": "02-09-2024",
+    "createdBy": {
+      "email": "nicolas@turbodocx.com",
+      "icon": "/user-6.png"
+    },
+    "variables": [
+      {
+        "placeholder": "Please enter the deliverable name",
+        "Name": "Deliverable Name",
+        "fieldValue": "deliverableName",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the activities list",
+        "Name": "ActivitiesList",
+        "fieldValue": "activitiesList",
+        "type": "text",
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the amount",
+        "Name": "Price",
+        "fieldValue": "price",
+        "type": "number",
+        "minLength": 2000,
+        "required": true
+      },
+      {
+        "placeholder": "Please enter the short terms",
+        "Name": "ShortTermNextSteps",
+        "fieldValue": "shortTermNextSteps",
+        "type": "text",
+        "required": true
+      }
+    ]
+  }
+]

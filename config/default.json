@@ -1,0 +1,11 @@
+{
+  "port": 8000,
+  "secretKey": "secret",
+  "timeouts": {
+    "login": "2h",
+    "refreshToken": "4h"
+  },
+  "auth0": {
+    "userInfoUrl": "https://dev-xv8kaspe45ux3fan.us.auth0.com/userinfo"
+  }
+}
