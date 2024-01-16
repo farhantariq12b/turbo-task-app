@@ -1,5 +1,5 @@
 import { DeliverableConstant, ErrorCodes } from '../constants';
-import deliverables from '../constants/Deliverables.json';
+import deliverables from '../constants/deliverables.json';
 import { Exception } from '../helpers';
 import { Deliverable, DeliverableList } from '../interfaces/Deliverable';
 
